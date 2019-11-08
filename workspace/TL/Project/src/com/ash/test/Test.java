@@ -4,6 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		System.out.println("line 1 added");
+		System.out.println("line2 added");
 	}
 
 }
